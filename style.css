@@ -1,0 +1,7 @@
+.btn{
+    background-color: skyblue;
+    padding: 5px;
+    margin: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
